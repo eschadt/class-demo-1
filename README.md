@@ -40,4 +40,4 @@ This is an ordered list.
 2. Item 2
 3. Item 3
 
-Markdown reference by @jclayton for [Drawing on the Web](https://cs.nyu.edu/courses/spring18/CSCI-UA.0380-002/) :art: :computer: :surfer:
+Markdown reference for [Drawing on the Web](https://cs.nyu.edu/courses/spring18/CSCI-UA.0380-002/) :art: :computer: :surfer:
